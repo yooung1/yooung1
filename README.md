@@ -1,16 +1,25 @@
-## Hi there 👋
+# E aí! 👋 Sou o Samuel
 
-<!--
-**yooung1/yooung1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor apaixonado por **Python** focado em criar **coisas significativas**.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Acredito que a tecnologia deve simplificar a vida. Atualmente, foco em transformar ideias em realidade através de:
+* **RPA:** Automações inteligentes que otimizam processos.
+* **APIs:** Construção de interfaces robustas e performáticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+* **Linguagem:** Python
+* **Frameworks:** FastAPI
+* **Infra & DevOps:** Docker & AWS (foco em escalabilidade e qualidade)
+
+## ⚽ No tempo livre
+* **Futebol:** Para recarregar as energias.
+* **Video games:** Explorando novos mundos e narrativas.
+* **Vídeos aleatórios:** Aprendendo coisas inusitadas no YouTube.
+
+## 📫 Vamos conectar?
+- [LinkedIn](https://www.linkedin.com/in/samuelpierrej/)
+- [E-mail](samuelpierrej@gmail.com)
+
+---
+*“Buscando propósito em cada linha de código.”*
