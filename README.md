@@ -8,9 +8,9 @@ Acredito que a tecnologia deve simplificar a vida. Atualmente, foco em transform
 * **APIs:** Construção de interfaces robustas e performáticas.
 
 ## 🛠️ Tech Stack
-* **Linguagem:** Python
-* **Frameworks:** FastAPI
-* **Infra & DevOps:** Docker & AWS (foco em escalabilidade e qualidade)
+* **Linguagens:** Python & Go (Golang)
+* **Frameworks & Soluções:** FastAPI & RPA
+* **Infra & DevOps:** Docker & AWS
 
 ## ⚽ No tempo livre
 * **Futebol:** Para recarregar as energias.
@@ -19,7 +19,7 @@ Acredito que a tecnologia deve simplificar a vida. Atualmente, foco em transform
 
 ## 📫 Vamos conectar?
 - [LinkedIn](https://www.linkedin.com/in/samuelpierrej/)
-- [E-mail](samuelpierrej@gmail.com)
+- [E-mail](mailto:samuelpierrej@gmail.com)
 
 ---
 *“Buscando propósito em cada linha de código.”*
